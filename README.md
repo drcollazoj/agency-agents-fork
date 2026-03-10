@@ -2,10 +2,6 @@
 
 > **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
-[![GitHub stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=social)](https://github.com/msitarzewski/agency-agents)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github)](https://github.com/sponsors/msitarzewski)
 
 ---
 
@@ -243,9 +239,6 @@ See the **[Nexus Spatial Discovery Exercise](examples/nexus-spatial-discovery.md
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Here's how you can help:
 
 ### Add a New Agent
 
@@ -267,10 +260,6 @@ We welcome contributions! Here's how you can help:
 - Enhance code samples
 - Update success metrics
 - Improve workflows
-
-### Share Your Success Stories
-
-Have you used these agents successfully? Share your story in the [Discussions](https://github.com/msitarzewski/agency-agents/discussions)!
 
 ---
 
@@ -373,7 +362,7 @@ The installer scans your system for installed tools, shows a checkbox UI, and le
   [x]  2)  [*]  Antigravity     (~/.gemini/antigravity)
   [ ]  3)  [ ]  Gemini CLI      (gemini extension)
   [ ]  4)  [ ]  OpenCode        (opencode.ai)
-  [x]  5)  [*]  Cursor          (.cursor/rules)
+  [ ]  5)  [ ]  Cursor          (.cursor/rules)
   [ ]  6)  [ ]  Aider           (CONVENTIONS.md)
   [ ]  7)  [ ]  Windsurf        (.windsurfrules)
 
@@ -383,7 +372,6 @@ The installer scans your system for installed tools, shows a checkbox UI, and le
 
 **Or install a specific tool directly:**
 ```bash
-./scripts/install.sh --tool cursor
 ./scripts/install.sh --tool opencode
 ./scripts/install.sh --tool antigravity
 ```
@@ -572,15 +560,6 @@ Special recognition to the 50+ Redditors who requested this within the first 12 
 
 ---
 
-## 💬 Community
-
-- **GitHub Discussions**: [Share your success stories](https://github.com/msitarzewski/agency-agents/discussions)
-- **Issues**: [Report bugs or request features](https://github.com/msitarzewski/agency-agents/issues)
-- **Reddit**: Join the conversation on r/ClaudeAI
-- **Twitter/X**: Share with #TheAgency
-
----
-
 ## 🚀 Get Started
 
 1. **Browse** the agents above and find specialists for your needs
@@ -591,12 +570,4 @@ Special recognition to the 50+ Redditors who requested this within the first 12 
 
 ---
 
-<div align="center">
 
-**🎭 The Agency: Your AI Dream Team Awaits 🎭**
-
-[⭐ Star this repo](https://github.com/msitarzewski/agency-agents) • [🍴 Fork it](https://github.com/msitarzewski/agency-agents/fork) • [🐛 Report an issue](https://github.com/msitarzewski/agency-agents/issues) • [❤️ Sponsor](https://github.com/sponsors/msitarzewski)
-
-Made with ❤️ by the community, for the community
-
-</div>
